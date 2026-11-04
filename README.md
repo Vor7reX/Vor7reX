@@ -1,7 +1,7 @@
 
 
 
-### **Hi there!** &nbsp;<a href="https://archives.bulbagarden.net/media/upload/e/e8/Spr_B2W2_Alder.png"><img src="https://archives.bulbagarden.net/media/upload/e/e8/Spr_B2W2_Alder.png" height="70" alt="Alder"></a> 
+### **Hi there!** &nbsp;<a href="https://archives.bulbagarden.net/media/upload/6/6c/Spr_B2W2_Iris.png"><img src="https://archives.bulbagarden.net/media/upload/6/6c/Spr_B2W2_Iris.png" height="70" alt="Iris"></a> 
 I’m [**Hadda**](https://www.linkedin.com/in/haddaoui-hakim), a Junior Robotics & Software Engineer with a solid foundation in full-stack development based in Italy.
 
 **These days I’m focused on:**
