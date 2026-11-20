@@ -1,7 +1,7 @@
 
 
 
-### **Hi there!** &nbsp;<a href="https://archives.bulbagarden.net/media/upload/6/6c/Spr_B2W2_Iris.png"><img src="https://archives.bulbagarden.net/media/upload/6/6c/Spr_B2W2_Iris.png" height="70" alt="Iris"></a> 
+### **Hi there!** &nbsp;<a href="https://pokemondb.net/pokedex/gliscor"><img src="https://img.pokemondb.net/sprites/black-white/anim/shiny/gliscor.gif" alt="Gliscor"></a>
 I’m [**Hadda**](https://www.linkedin.com/in/haddaoui-hakim), a Junior Robotics & Software Engineer with a solid foundation in full-stack development based in Italy.
 
 **These days I’m focused on:**
